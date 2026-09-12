@@ -326,6 +326,8 @@ https://docsify.js.org
 
 • Syncthing
 
+• [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) — Privacy-friendly Windows/macOS desktop companion for viewing Codex quota, reset timing, pace, forecasts, and local usage history. [Website](https://cpys.github.io/codex-quota-overlay/) · MIT
+
 ---
 
 # 💡 LibreVault Tips
